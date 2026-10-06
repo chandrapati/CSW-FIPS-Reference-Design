@@ -127,4 +127,4 @@ Authoritative source(s) for **FIPS 140**. Always validate control references, cl
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a FIPS 140 attestation. Validate all control references against the current official FIPS 140 text ([official source](https://csrc.nist.gov/pubs/fips/140-3/final)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
